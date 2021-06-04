@@ -13,7 +13,7 @@ class s3Upload:
                 aws_secret_access_key= '11VhuJ++j25W2MNAjIT0NJ',
                 region_name=''
         )
-        self.photo = 'capture.jpg'
+        self.photo = 'capture'
 
     def upload_picture(self):
         """ 
